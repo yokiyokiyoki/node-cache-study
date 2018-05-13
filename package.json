@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node app.js"
   },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mime": "^2.0.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yokiyokiyoki/node-cache-study.git"
